@@ -9,3 +9,7 @@ An easy way to run this project is to add all of the files to a Visual Studio pr
 ## Animation
 
 See the video file Pendulum_Anim_Square.mp4 for a demonstratoin of the animation produced. 
+
+## Potential Improvements
+
+-could alter to use the Barnes-Hut algorithm to allow for better framerate with large numbers of particles 
