@@ -12,5 +12,5 @@ See the video file Pendulum_Anim_Square.mp4 for a demonstratoin of the animation
 
 ## Potential Improvements
 
--could alter to use the Barnes-Hut algorithm to allow for better framerate with large numbers of particles 
+-could alter to use the Barnes-Hut algorithm to allow for better framerate with large numbers of particles [reduce time complexity from O(n^2) to O(nlogn)]
 -could alter to handle masses colliding
